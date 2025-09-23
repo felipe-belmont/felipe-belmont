@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" alt="GIF" src="https://www.canva.com/design/DAGz1gklBFM/9J_V4R9gQvb4TpaBFJPcYQ/edit?utm_content=DAGz1gklBFM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="400" height="280" />
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 <!--
 **felipe-belmont/felipe-belmont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
