@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--Banner-->
-![felipe-belmont Banner Image](https://github.com/felipe-belmont/principal/blob/main/imagenes/gitbanner.png)
+![felipe-belmont Banner Image](https://github.com/felipe-belmont/principal/blob/main/imagenes/bannergit.png)
 
 
 <!--Night Owl image-->
